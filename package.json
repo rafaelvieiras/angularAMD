@@ -4,7 +4,7 @@
   "description": "RequireJS plugin for AngularJS",
   "repository": {
     "type": "git",
-    "url": "git://github.com/marcoslin/angularAMD.git"
+    "url": "git://github.com/rafaelvieiras/angularAMD.git"
   },
   "keywords": [
     "angularjs",
@@ -13,7 +13,7 @@
   "author": "Marcos Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcoslin/angularAMD/issues"
+    "url": "https://github.com/rafaelvieiras/angularAMD/issues"
   },
   "dependencies": {},
   "devDependencies": {
